@@ -1,0 +1,26 @@
+nav {
+    height: 100px;
+    width: 100%;
+    border-bottom: 10px solid darkblue;
+    background-color: #999900;
+  }  
+
+section {
+    width: 70%;
+    margin: 20px auto;
+    border-bottom: 5px solid darkblue;
+    background-color: #ffffd4;
+  }
+  
+ul {
+    text-align: right;
+  }
+
+li {
+    display: inline;
+    list-style-type: none;
+  }
+
+.center {
+    text-align: center;
+}
